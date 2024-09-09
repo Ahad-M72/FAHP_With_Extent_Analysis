@@ -10,7 +10,6 @@ This script, `Fuzzy_AHP.py`, is designed to handle the uncertainties and ambigui
 - Python 3.x
 - Pandas
 - NumPy
-- 
 ## References
 1. Chang, D.Y., 1996. Applications of the extent analysis method on fuzzy AHP. European journal of operational research 95, 649–655 (https://doi.org/10.1016/0377-2217(95)00300-2).
 2. Gogus, O., Boucher, T.O., 1998. Strong transitivity, rationality and weak monotonicity in fuzzy pairwise comparisons. Fuzzy sets and systems 94, 133–144 (https://doi.org/10.1016/S0165-0114(96)00184-4).
