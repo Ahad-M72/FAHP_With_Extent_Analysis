@@ -6,7 +6,6 @@ This script, `Fuzzy_AHP.py`, is designed to handle the uncertainties and ambigui
 1. Place your integrated pairwise comparisons in the provided CSV (Primary_Matrix.csv) file in an accessible location.
 2. Modify the `file_path` variable in the script to point to your CSV file.
 3. Run the script.
-
 ## Requirements
 - Python 3.x
 - Pandas
