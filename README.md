@@ -2,7 +2,7 @@
 Fuzzy Analytic Hierarchy Process (FAHP) with extent analysis is an advanced decision-making technique that incorporates fuzzy logic into the traditional AHP framework. It is particularly useful when subjective judgments are involved, allowing for the incorporation of uncertainty and vagueness into pairwise comparisons. This script, `Fuzzy_AHP.py`, processes calculations using a primary pairwise comparison matrix for up to 10 items. The script reads data from a CSV file containing integrated pairwise comparisons, then computes the fuzzy synthetic extent values and normalized weights, as outlined in Chang's 1996 study [1]. Additionally, it calculates the Consistency Ratio (CR) values following the methodology from Gogus and Boucher's 1998 research [2]. This script effectively aids in determining normalized weights.
 
 
-## Usage
+## How to use
 1. Place your integrated pairwise comparisons in the provided CSV (Primary_Matrix.csv) file in an accessible location.
 2. Modify the `file_path` variable in the script to point to your CSV file.
 3. Run the script.
