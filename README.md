@@ -3,7 +3,7 @@ Fuzzy Analytic Hierarchy Process (FAHP) with extent analysis is an advanced deci
 
 
 ## How to Use
-1. Place your integrated pairwise comparisons in a CSV file and an accessible location.
+1. Place your integrated pairwise comparisons in a CSV file (Primary_Matrix) and an accessible location.
 2. Modify the `file_path` variable in the script to point to your CSV file.
 3. Run the script.
 ## Requirements
