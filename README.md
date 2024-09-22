@@ -21,6 +21,11 @@ For example, a value of 3 on the left means that the item on the left is three t
 
 The subsequent rows contain numeric data representing the total number of times participants have chosen each option during the pairwise comparisons.
 
+
+
+## How to Cite:
+
+
 To reference this repository in academic publications and other documentation, a DOI badge has been added to the README. This badge links directly to the Zenodo archive, providing a stable and citable DOI.
 
 [![DOI](https://zenodo.org/badge/854655029.svg)](https://zenodo.org/doi/10.5281/zenodo.13824776)
